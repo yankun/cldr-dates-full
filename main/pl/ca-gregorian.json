@@ -370,7 +370,7 @@
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
-                "yMd": "d.MM.y",
+                "yMd": "y-MM-dd",
                 "yMEd": "E, d.MM.y",
                 "yMMM": "LLL y",
                 "yMMMd": "d MMM y",
